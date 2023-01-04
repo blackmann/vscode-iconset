@@ -220,6 +220,9 @@
 		"file.toml": {
 			"iconPath": "./src/file.toml.svg"
 		},
+		"file.zig": {
+			"iconPath": "./src/file.zig.svg"
+		},
 		// Config files
 		"config.npm": {
 			"iconPath": "./src/config.npm.svg"
@@ -481,7 +484,8 @@
 		"key": "file.key",
 		"pem": "file.crt",
 		"cr": "file.cr",
-		"ecr": "file.cr"
+		"ecr": "file.cr",
+		"zig": "file.zig"
 	},
 	"fileNames": {
 		"package.json": "config.npm",
